@@ -1,6 +1,13 @@
 ![kotlin](https://logos-download.com/wp-content/uploads/2016/10/Kotlin_logo_wordmark.png)
 **Привет, TeamCity, это тестовое задание для internship.jetbrains.com !**
 
+Данный тест будет проверять доступен ли сервер и наличие на нем возможность входа под незарегистрированным (guest) пользователем.
+
+Тест будет проходить по следующим страницам:
+
+1) https://teamcity.jetbrains.com/
+2) https://teamcity.jetbrains.com/login.html
+
 Для запуска требуется IntelliJ IDEA.
 На машине должны быть установлены Chrome и Firefox (инсталлеры в папке "src/main/kotlin/installers")
 
