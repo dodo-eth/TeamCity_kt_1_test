@@ -8,6 +8,7 @@
 
 1) Выполнить создание проекта из репозитория.
 File-New-Project from Version Control...
+   
 ![clone](https://image.prntscr.com/image/I9NqzT_xR6qvzwbgr69ZgA.png)
    
 Ссылка на репозиторий : https://github.com/off-fov/TeamCity_kt_1_test
